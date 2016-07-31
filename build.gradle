@@ -12,7 +12,7 @@ apply plugin: 'groovy'
 apply plugin: 'spring-boot'
 
 jar {
-    baseName = 'katastrohpe-web'
+    baseName = 'isp-sample-web'
     version =  '0.0.1'
 }
 
@@ -27,9 +27,7 @@ targetCompatibility = 1.8
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.5'
     compile("org.springframework.boot:spring-boot-starter-web")
-    compile 'org.apache.commons:commons-math:2.2'
     testCompile("junit:junit")
-    compile('com.gmongo:gmongo:1.5')
     compile "org.springframework.boot:spring-boot-configuration-processor"
 }
 

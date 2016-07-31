@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController
 class InternetPlanService {
 
     @RequestMapping(value="/ping", method=RequestMethod.GET)
-    public String ping() {
+    String ping() {
         return "{ 'msg': 'ISP plan endpoint is running.' }"
     }
 }

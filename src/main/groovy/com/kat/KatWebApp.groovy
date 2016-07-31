@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
 class KatWebApp {
-    public static void main(String[] args) {
-        SpringApplication.run(KatWebApp.class, args);
+    static void main(String[] args) {
+        SpringApplication.run(KatWebApp.class, args)
     }
 }
 
