@@ -5,7 +5,7 @@
       "name": "Economy",
       "speed": "50 Mbps",
       "type": "Residential",
-      "pricePerMonth": 7,
+      "pricePerMonth": 8,
       "DataLimit": "50GB"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Standard",
       "speed": "100 Mbps",
       "type": "Residential",
-      "pricePerMonth": 12,
+      "pricePerMonth": 14,
       "dataLimit": "100 GB"
     },
     {

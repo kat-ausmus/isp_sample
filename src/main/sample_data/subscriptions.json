@@ -4,8 +4,8 @@
             "id": "1",
             "notificationMethod": "email",
             "notifiedValues": [
-                7,
-                12
+                8,
+                14
             ],
             "planType": "Residential",
             "pricePerMonthThreshold": 14,
