@@ -1,0 +1,92 @@
+{
+  "plans": [
+    {
+      "id": "1",
+      "name": "Economy",
+      "speed": "50 Mbps",
+      "type": "Residential",
+      "pricePerMonth": 7,
+      "DataLimit": "50GB"
+    },
+    {
+      "id": "2",
+      "name": "Standard",
+      "speed": "100 Mbps",
+      "type": "Residential",
+      "pricePerMonth": 12,
+      "dataLimit": "100 GB"
+    },
+    {
+      "id": "3",
+      "name": "Superior",
+      "speed": "200 Mbps",
+      "type": "Residential",
+      "pricePerMonth": 30,
+      "dataLimit": "300 GB"
+    },
+    {
+      "id": "4",
+      "name": "Super Duper",
+      "speed": "300 Mbps",
+      "type": "Residential",
+      "pricePerMonth": 60,
+      "dataLimit": "600 GB"
+    },
+    {
+      "id": "5",
+      "name": "Economy",
+      "speed": "50 Mbps",
+      "type": "Small Business",
+      "pricePerMonth": 50,
+      "dataLimit": "500 GB"
+    },
+    {
+      "id": "6",
+      "name": "Standard",
+      "speed": "100 Mbps",
+      "type": "Small Business",
+      "pricePerMonth": 100,
+      "dataLimit": "1000 GB"
+    },
+    {
+      "id": "7",
+      "name": "Superior",
+      "speed": "200 Mbps",
+      "type": "Small Business",
+      "pricePerMonth": 200,
+      "dataLimit": "3000 GB"
+    },
+    {
+      "id": "8",
+      "name": "Super Duper",
+      "speed": "300 Mbps",
+      "type": "Small Business",
+      "pricePerMonth": 600,
+      "dataLimit": "6000 GB"
+    },
+    {
+      "id": "9",
+      "name": "Economy",
+      "speed": "100 Mbps",
+      "type": "Commercial",
+      "pricePerMonth": 100,
+      "dataLimit": ""
+    },
+    {
+      "id": "10",
+      "name": "Standard",
+      "speed": "400 Mbps",
+      "type": "Commercial",
+      "pricePerMonth": 200,
+      "dataLimit": ""
+    },
+    {
+      "id": "11",
+      "name": "Superior",
+      "speed": "800 Mbps",
+      "type": "Commercial",
+      "pricePerMonth": 600,
+      "dataLimit": ""
+    }
+  ]
+}

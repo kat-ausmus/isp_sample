@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "General Lee",
+      "email": "generally@famous.com",
+      "phone": {
+        "mobile": "469-555-1111",
+        "home": "469-555-1001"
+      },
+      "address": {
+        "billing": "123 Sesame St, Dallas, TX 75000",
+        "shipping": "123 Sesame St. Dallas, TX 75000"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Capitan Archer",
+      "email": "cap_archer@famous.com",
+      "phone": {
+        "mobile": "469-555-2222",
+        "home": ""
+      },
+      "address": {
+        "billing": "321 X St, Dallas, TX 75000",
+        "shipping": "432 Y St, Dallas, TX 75000"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Mary Poppingpills",
+      "email": "pin_stripe_mary@famous.com",
+      "phone": {
+        "mobile": "972-555-3333",
+        "home": ""
+      },
+      "address": {
+        "billing": "543 A St. Plano, TX 75020",
+        "shipping": ""
+      }
+    }
+  ]
+}

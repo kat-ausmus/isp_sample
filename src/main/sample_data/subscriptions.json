@@ -1,0 +1,37 @@
+{
+    "subscriptions": [
+        {
+            "id": "1",
+            "notificationMethod": "email",
+            "notifiedValues": [
+                7,
+                12
+            ],
+            "planType": "Residential",
+            "pricePerMonthThreshold": 14,
+            "userId": "1"
+        },
+        {
+            "id": "2",
+            "notificationMethod": "email",
+            "notifiedValues": [
+                50,
+                100
+            ],
+            "planType": "Small Business",
+            "pricePerMonthThreshold": 140,
+            "userId": "1"
+        },
+        {
+            "id": "3",
+            "notificationMethod": "mobile",
+            "notifiedValues": [
+                100,
+                200
+            ],
+            "planType": "Commercial",
+            "pricePerMonthThreshold": 400,
+            "userId": "3"
+        }
+    ]
+}
