@@ -19,7 +19,7 @@ gradle bootrun
 After the service has started up, you can test it out locally by hitting the following URL:
 
 ```
-http://localhost:8080/api/isp/ping
+http://localhost:8080/ping
 ```
 
 If everything is successfully configured and running, you'll see a short JSON response when you hit that URL.
